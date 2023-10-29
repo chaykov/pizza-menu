@@ -94,7 +94,7 @@ function Menu() {
           </ul>
         </>
       ) : (
-        <p>We're still working on our menu. Please come back later!</p>
+        <p>We're still working on our menu. Please come back later! Test from macos</p>
       )}
 
       {/* <Pizza
