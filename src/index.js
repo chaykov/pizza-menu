@@ -5,7 +5,7 @@ import './index.css';
 
 const pizzaData = [
   {
-    name: 'Focaccia',
+    name: 'Focaccias',
     ingredients: 'Bread with italian olive oil and rosemary',
     price: 6,
     photoName: 'pizzas/focaccia.jpg',
